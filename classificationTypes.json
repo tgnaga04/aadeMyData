@@ -301,10 +301,11 @@
         }
     },
     {
-        "code": "E3_106",
+        "code": "E3_106-EXP",
         "description": "Ιδιοπαραγωγή παγίων - Αυτοπαραδόσεις - Καταστροφές αποθεμάτων",
         "metadata": {
-            "class": "expenses"
+            "class": "expenses",
+            "actualCode": "E3_106"
         }
     },
     {
@@ -364,10 +365,11 @@
         }
     },
     {
-        "code": "E3_205",
+        "code": "E3_205-EXP",
         "description": "Ιδιοπαραγωγή παγίων - Αυτοπαραδόσεις - Καταστροφές αποθεμάτων",
         "metadata": {
-            "class": "expenses"
+            "class": "expenses",
+            "actualCode": "E3_205"
         }
     },
     {
@@ -392,10 +394,11 @@
         }
     },
     {
-        "code": "E3_210",
+        "code": "E3_210-EXP",
         "description": "Ιδιοπαραγωγή παγίων - Αυτοπαραδόσεις - Καταστροφές αποθεμάτων",
         "metadata": {
-            "class": "expenses"
+            "class": "expenses",
+            "actualCode": "E3_210"
         }
     },
     {
@@ -455,10 +458,11 @@
         }
     },
     {
-        "code": "E3_305",
+        "code": "E3_305-EXP",
         "description": "Ιδιοπαραγωγή παγίων - Αυτοπαραδόσεις - Καταστροφές αποθεμάτων",
         "metadata": {
-            "class": "expenses"
+            "class": "expenses",
+            "actualCode": "E3_305"
         }
     },
     {
@@ -483,10 +487,11 @@
         }
     },
     {
-        "code": "E3_310",
+        "code": "E3_310-EXP",
         "description": "Ιδιοπαραγωγή παγίων - Αυτοπαραδόσεις - Καταστροφές αποθεμάτων",
         "metadata": {
-            "class": "expenses"
+            "class": "expenses",
+            "actualCode": "E3_310"
         }
     },
     {
@@ -546,10 +551,11 @@
         }
     },
     {
-        "code": "E3_318",
+        "code": "E3_318-EXP",
         "description": "Ιδιοπαραγωγή παγίων - Αυτοπαραδόσεις - Καταστροφές αποθεμάτων",
         "metadata": {
-            "class": "expenses"
+            "class": "expenses",
+            "actualCode": "E3_318"
         }
     },
     {
@@ -742,13 +748,6 @@
         }
     },
     {
-        "code": "E3_598_002",
-        "description": "Αγορές αγαθών που υπάγονται σε ΕΦΚ",
-        "metadata": {
-            "class": "expenses"
-        }
-    },
-    {
         "code": "E3_882_001",
         "description": "Αγορές ενσώματων παγίων χρήσης/Χονδρικές",
         "metadata": {
@@ -798,8 +797,64 @@
         }
     },
     {
-        "code": "E34_883_00",
+        "code": "E34_883_004",
         "description": "Αγορές μη ενσώματων παγίων χρήσης/Εξωτερικού Τρίτες Χώρες",
+        "metadata": {
+            "class": "expenses"
+        }
+    },
+    {
+        "code": "E3_598_002",
+        "description": "Αγορές αγαθών που υπάγονται σε ΕΦΚ",
+        "metadata": {
+            "class": "expenses"
+        }
+    },
+    {
+        "code": "NOT_VAT_295",
+        "description": "Μη συμμετοχή στο ΦΠΑ (έξοδα – εισροές Φ2) ",
+        "metadata": {
+            "class": "expenses"
+        }
+    },
+    {
+        "code": "VAT_361",
+        "description": "Αγορές & δαπάνες στο εσωτερικό της χώρας",
+        "metadata": {
+            "class": "expenses"
+        }
+    },
+    {
+        "code": "VAT_362",
+        "description": "Αγορές & εισαγωγές επενδ. Αγαθών (πάγια)",
+        "metadata": {
+            "class": "expenses"
+        }
+    },
+    {
+        "code": "VAT_363",
+        "description": "Λοιπές εισαγωγές εκτός επενδ. Αγαθών (πάγια)",
+        "metadata": {
+            "class": "expenses"
+        }
+    },
+    {
+        "code": "VAT_364",
+        "description": "Ενδοκοινοτικές αποκτήσεις αγαθών",
+        "metadata": {
+            "class": "expenses"
+        }
+    },
+    {
+        "code": "VAT_365",
+        "description": "Ενδοκοινοτικές λήψεις υπηρεσιών άρθρ. 14.2.α",
+        "metadata": {
+            "class": "expenses"
+        }
+    },
+    {
+        "code": "VAT_366",
+        "description": "Λοιπές πράξεις λήπτη",
         "metadata": {
             "class": "expenses"
         }
