@@ -15,8 +15,9 @@
 
 [classificationCategories.json](/classificationCategories.json)
 
-## Τύποι Χαρακτηρισμού Εσόδων/Εξόδων (v.1.0.9)
+## Τύποι Χαρακτηρισμού Εσόδων/Εξόδων (v.1.0.11)
 Παράρτημα myDATA REST API - Πίνακας 8.9 & 8.11
+> Έχει γίνει διαχωρισμός ανάμεσα στους κωδικούς που υπάρχουν στα Έσοδα και στα Έκοδα, προσθέτωντας "-EXP" στους διπλότυπους κωδικούς των εξόδων και τον πραγματικό κωδικό στα metadata.
 
 [classificationTypesIncome.json](/classificationTypes.json)
 
