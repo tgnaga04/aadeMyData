@@ -66,7 +66,7 @@
 
 [quantityTypes.json](/quantityTypes.json)
 
-## Σκοποί Διακίνησης (v.1.0.9)
+## Σκοποί Διακίνησης (v.1.0.11)
 Παράρτημα myDATA REST API - Πίνακας 8.14
 
 [transactionPurposes.json](/transactionPurposes.json)
